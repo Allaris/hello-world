@@ -3,3 +3,7 @@ Testing
 some class extends object {
 
 }
+
+public void newfunctions() {
+// blah blah
+}
