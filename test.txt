@@ -1,5 +1,5 @@
 Testing
 
-some class extends object {
-
+some class extends object implements testinterface {
+// some new code here
 }
